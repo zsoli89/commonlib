@@ -3,7 +3,7 @@ package hu.webuni.commonlib.base;
 import java.time.LocalDate;
 import java.time.LocalTime;
 
-public class BaseDto {
+public abstract class BaseDto {
 
     private LocalDate creationDate;
     private LocalTime creationTime;
