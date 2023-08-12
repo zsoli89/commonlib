@@ -1,4 +1,4 @@
-package hu.webuni.commonlib.base;
+package hu.webuni.commonlib.dto;
 
 import java.util.Objects;
 
