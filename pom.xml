@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.1.0</version>
+		<version>3.1.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>hu.webuni</groupId>
@@ -18,7 +18,7 @@
 		<java.version>17</java.version>
 		<org-json-version>20230227</org-json-version>
 		<org.mapstruct.version>1.5.5.Final</org.mapstruct.version>
-		<spring.boot.dependencies.version>3.1.0</spring.boot.dependencies.version>
+		<spring.boot.dependencies.version>3.1.2</spring.boot.dependencies.version>
 	</properties>
 
 	<dependencyManagement>
